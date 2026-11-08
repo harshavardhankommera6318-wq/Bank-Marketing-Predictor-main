@@ -1,8 +1,8 @@
 # Bank Marketing Predictor
 
 **Internship project:** Machine Learning  
-**Intern ID:** `CITS9471`  
-**Full name:** `Chilaka Pankaj Dheeraj`  
+**Intern ID:** `CITS7487`  
+**Full name:** `KOMMERA.HARSHA VARDHAN`  
 **Duration (weeks):** `12 weeks`  
 **Project scope:** Analyze campaign records and train a classification model to estimate whether a customer may subscribe to a term deposit.
 
