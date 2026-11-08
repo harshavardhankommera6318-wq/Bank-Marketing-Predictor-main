@@ -1,0 +1,1 @@
+Save genuine screenshots from the running application here.\n
